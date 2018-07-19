@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFramework", "MyFramework\MyFramework.csproj", "{D4A9E6DC-FC46-4F74-97DE-7A5EFD6F86D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapper", "..\AutoMapper\AutoMapper\AutoMapper.csproj", "{5CAECDD0-6DB4-4BE8-9AED-356A238A9CC0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapper", "AutoMapper\AutoMapper.csproj", "{5CAECDD0-6DB4-4BE8-9AED-356A238A9CC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Niject", "..\Niject\Niject\Niject.csproj", "{2342C24A-6E43-4344-AC86-ECB9F4032BA0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Niject", "Niject\Niject.csproj", "{2342C24A-6E43-4344-AC86-ECB9F4032BA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
