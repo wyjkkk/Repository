@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFramework", "MyFramework\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapper", "..\AutoMapper\AutoMapper\AutoMapper.csproj", "{5CAECDD0-6DB4-4BE8-9AED-356A238A9CC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Niject", "..\Niject\Niject\Niject.csproj", "{2342C24A-6E43-4344-AC86-ECB9F4032BA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5CAECDD0-6DB4-4BE8-9AED-356A238A9CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CAECDD0-6DB4-4BE8-9AED-356A238A9CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CAECDD0-6DB4-4BE8-9AED-356A238A9CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2342C24A-6E43-4344-AC86-ECB9F4032BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2342C24A-6E43-4344-AC86-ECB9F4032BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2342C24A-6E43-4344-AC86-ECB9F4032BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2342C24A-6E43-4344-AC86-ECB9F4032BA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
