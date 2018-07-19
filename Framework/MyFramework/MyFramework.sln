@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFramework", "MyFramework\MyFramework.csproj", "{D4A9E6DC-FC46-4F74-97DE-7A5EFD6F86D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapper", "..\AutoMapper\AutoMapper\AutoMapper.csproj", "{5CAECDD0-6DB4-4BE8-9AED-356A238A9CC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D4A9E6DC-FC46-4F74-97DE-7A5EFD6F86D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4A9E6DC-FC46-4F74-97DE-7A5EFD6F86D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4A9E6DC-FC46-4F74-97DE-7A5EFD6F86D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CAECDD0-6DB4-4BE8-9AED-356A238A9CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAECDD0-6DB4-4BE8-9AED-356A238A9CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAECDD0-6DB4-4BE8-9AED-356A238A9CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAECDD0-6DB4-4BE8-9AED-356A238A9CC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
