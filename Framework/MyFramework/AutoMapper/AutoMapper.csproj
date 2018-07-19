@@ -57,6 +57,10 @@
     <Compile Include="AutoMapperMangeClou\IAutoMapperManage.cs" />
     <Compile Include="AutoMapperMangeCtrip\AutoMapperConfig.cs" />
     <Compile Include="AutoMapperMangeCtrip\AutoMapperManager.cs" />
+    <Compile Include="AutoMapperMe\IAutoMapprConfig.cs" />
+    <Compile Include="AutoMapperMe\IMapperManagement.cs" />
+    <Compile Include="AutoMapperMe\IMapper.cs" />
+    <Compile Include="AutoMapperMe\MapperManagement.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
